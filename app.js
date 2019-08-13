@@ -1,6 +1,8 @@
 //app.js
 
 //用于测试 --qz
+
+//我爱你中国
 App({
   onLaunch: function () {
     // 展示本地存储能力
